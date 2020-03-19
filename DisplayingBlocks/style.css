@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+  background-color: bisque;
+}
+
+.header img,
+.header h1 {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+}
+.header img {
+  width: 10%;
+}
+#git {
+  margin-left: 30%;
+}
+.body {
+  padding-left: 5%;
+}
+.col1 img,
+.col2 img,
+.col3 img,
+.col4 img {
+  width: 15%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 15px;
+  border: 5px solid black;
+  margin: 5px;
+}
+.blue {
+  background-color: aqua;
+}
+.pink {
+  background-color: palevioletred;
+}
